@@ -14,4 +14,4 @@ where Xn1 =1 if cholesterol level of group n is between 200 - 219 (mg/100 cc) an
 <p align="center">Y<sub>n</sub> ∼ Binomial (m<sub>n</sub>, π<sub>n</sub>) (4)</p>
 and this model allows us to explore the association between the response variable and the two explanatory variables.
 
-### [Full Paper](https://drive.google.com/file/d/1Lupe23UdjEQNRFt-fxJW5-hDrTVZUDBK/view?usp=sharing)
+### [Full Paper](https://github.com/shikaijin/STAT-473-Generalized-Linear-Models/blob/f0969d30faa1aa839e10b735ddf100ba053a54cc/Study%20of%20The%20Relationship%20Between%20a%20Particular%20Type%20of%20Heart%20Disease.pdf)
