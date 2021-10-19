@@ -1,4 +1,4 @@
-# Study of The Relationship Between a Particular Type of Heart Disease, Cholesterol Level and Blood Pressure ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shikaijin/STAT-473-Generalized-Linear-Models.visitor-badge)
+# Study of the Relationship between a Particular Type of Heart Disease, Cholesterol Level and Blood Pressure ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shikaijin/STAT-473-Generalized-Linear-Models.visitor-badge)
 ## Introduction 
 
 <p>The data given were obtained in study of the relationship between a particular type of heart disease, cholesterol level and blood pressure, where the total number of individuals is fixed in the study. The individuals are cross classified according to three variables: the serum cholesterol (mg/100 cc) at 4 levels, systolic blood pressure (mm Hg) at 4 levels and the heart disease status (Present, Absent). l was interested in examining the nature of the association among these 3 variables. 
