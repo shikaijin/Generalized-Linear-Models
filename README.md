@@ -18,4 +18,4 @@ and this model allows us to explore the association between the response variabl
 
 * Data: [View here](https://github.com/shikaijin/STAT-473-Generalized-Linear-Models/blob/a45cef801a0edcd6bf05971a55a6a241ea689677/heartdisease.txt)
 * R Code: [View here](https://github.com/shikaijin/STAT-473-Generalized-Linear-Models/blob/a45cef801a0edcd6bf05971a55a6a241ea689677/GLM.R)
-* Paper: [View here](https://github.com/shikaijin/STAT-473-Generalized-Linear-Models/blob/27b8709b1b0307fa5d78394f063655e0aa46a888/Study%20of%20The%20Relationship%20Between%20a%20Particular%20Type%20of%20Heart%20Disease.pdf)
+* Paper: [Contact me for detail](mailto:shikaijin7@gmail.com)
